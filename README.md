@@ -15,7 +15,7 @@
     limitations under the License.
  -->
 # This is for course project
-**simon fraser university**
+**Simon Fraser University**
 
 **Liyang Zhou**
 
