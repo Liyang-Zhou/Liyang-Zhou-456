@@ -15,8 +15,8 @@
     limitations under the License.
  -->
 # this is for course project
-==simon fraser university==
-==liyang zhou==
+**simon fraser university**
+**Liyang Zhou**
 
 # Apache Lucene and Solr
 
