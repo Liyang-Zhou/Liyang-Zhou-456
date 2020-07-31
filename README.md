@@ -14,8 +14,9 @@
     See the License for the specific language governing permissions and
     limitations under the License.
  -->
-# this is for course project
+# This is for course project
 **simon fraser university**
+
 **Liyang Zhou**
 
 # Apache Lucene and Solr
